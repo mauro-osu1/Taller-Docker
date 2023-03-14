@@ -40,3 +40,13 @@ a.	Se ingresa a la pagina de Dockerhub  https://hub.docker.com/ y se ingresan lo
 <img src="/img_taller/Imagen1_punto3.png" width="1000" />
 b.	Se crea un repositorio:
 <img src="/img_taller/Imagen2_punto3.png" width="1000" />
+
+## Parte 2
+<div id="header" align="center">
+    <img src="/img_taller/Imagen2.png" width="1000" />
+</div>
+
+
+1. Se realiza el desarrollo el el Shell de configuración de la creación de un repositorio en Docker y se agrega al menú que se creo para el taller de sistemas operativos y se le asigna la opción 9 como se muestra en la siguiente imagen:
+<img src="/img_taller/Imagen1_punto1_parte2.png" width="1000" />
+<img src="/img_taller/Imagen2_punto1_parte2.png" width="1000" />
