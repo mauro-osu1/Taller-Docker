@@ -55,5 +55,5 @@ b.	Se agregan los permisos al usuario, se crean las carpetas y se les da los per
 <img src="/img_taller/Imagen3_punto1_parte2.png" width="1000" />
 <img src="/img_taller/Imagen4_punto1_parte2.png" width="1000" />
 c.	Por ultimo se guarda el shel con las modificaciones y se sube al repositorio del rtaller de docker
-
+<img src="/img_taller/Imagen5_punto1_parte2.png" width="1000" />
 
