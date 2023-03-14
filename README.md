@@ -49,4 +49,11 @@ b.	Se crea un repositorio:
 
 1. Se realiza el desarrollo el el Shell de configuración de la creación de un repositorio en Docker y se agrega al menú que se creo para el taller de sistemas operativos y se le asigna la opción 9 como se muestra en la siguiente imagen:
 <img src="/img_taller/Imagen1_punto1_parte2.png" width="1000" />
+a.	Se inicia la instalación de Docker en el servidor y se verifica la  versión instalada
 <img src="/img_taller/Imagen2_punto1_parte2.png" width="1000" />
+b.	Se agregan los permisos al usuario, se crean las carpetas y se les da los permisos y se inicia la instalacion del docker compose y se valida el versionamiento como se ve en las siguientes imágenes:  
+<img src="/img_taller/Imagen3_punto1_parte2.png" width="1000" />
+<img src="/img_taller/Imagen4_punto1_parte2.png" width="1000" />
+c.	Por ultimo se guarda el shel con las modificaciones y se sube al repositorio del rtaller de docker
+
+
